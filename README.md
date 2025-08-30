@@ -8,4 +8,4 @@
 - [광도전 셀](광센서/1.광도전 셀.md)
 - [test.md](test.md)
 - [광센서/test.md](광센서/test.md)
-- [광센서/(1.test.md)
+- [광센서/1.test.md](광센서/1.test.md)
