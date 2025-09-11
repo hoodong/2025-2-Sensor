@@ -92,6 +92,8 @@ max30102
 
 - 0x30: 근접 센서 임계값 설정
 
+<img width="529" height="603" alt="image" src="https://github.com/user-attachments/assets/3a5ae3cb-a8f2-4d82-ba95-b6bead956ac4" />
+
 
 
 
