@@ -27,7 +27,8 @@
 
 # 실물사진 및 설명
 
-<img width="614" height="593" alt="모노리딕 포토IC max30102" src="https://github.com/user-attachments/assets/97d218f9-d25d-434b-b551-d0dcfa305fe7" />
+
+<img width="387" height="343" alt="화면 캡처 2025-09-11 111038" src="https://github.com/user-attachments/assets/bb88efdd-c782-4ce3-b2fd-9501f738612c" />
 
 
 
