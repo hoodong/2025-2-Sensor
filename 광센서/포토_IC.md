@@ -21,7 +21,7 @@
 
 
 데이터시트 및 설명
-
+kitoplus7@gmail.com
 max30102
 
 1. 개요
