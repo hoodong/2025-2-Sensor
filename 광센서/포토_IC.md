@@ -96,39 +96,14 @@ max30102
 |  소비 전류 (SpO₂ 모드, 50sps) | 600 \~ 1200 µA              |
 |  셧다운 전류                 | typ 0.7 µA                  |
 
-4. 내부 구조
+4. 주요 광학/동작 특성 요약
 
-  - SpO₂ 서브시스템
-
-    - Ambient Light Cancellation (ALC, 주변광 제거)
-
-    - Σ-Δ ADC (18bit)
-
-    - 디지털 필터
-
-  - FIFO 버퍼 (32 샘플 저장)
-
-  - 온도 센서: 분해능 0.0625℃, 정확도 ±1℃.
-
-  - LED 드라이버: 펄스폭(69~411µs), 전류, 듀티 사이클 설정 가능.
-
-5. 레지스터 주요 구성
-
-  - 0x00–0x01: Interrupt Status
-
-  - 0x04–0x07: FIFO 관련 레지스터 (WR_PTR, RD_PTR, FIFO_DATA 등)
-
-  - 0x09: Mode 설정 (HR, SpO₂, Multi-LED 모드)
-
-  - 0x0A: SpO₂ 설정 (ADC 범위, 샘플레이트, LED 펄스폭)
-
-  - 0x0C–0x0D: LED 전류 설정 (Red/IR)
-
-  - 0x1F–0x21: 온도 데이터 (정수/소수, enable)
-
-  - 0x30: 근접 센서 임계값 설정
-
-<img width="547" height="628" alt="image" src="https://github.com/user-attachments/assets/1fd98291-3e2f-4213-924a-fdb9b4e1a8dd" />
+| 구분                                    | 데이터시트 내용                                                                                                                          | 비고              |
+| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| **동작 파장 (Operating Wavelength)**      | - **적색 LED:** 650 \~ 670 nm (typ. 660 nm)  <br> - **IR LED:** 870 \~ 900 nm (typ. 880 nm)  <br> - **포토다이오드 감도 범위:** 600 \~ 900 nm | 바이오 센싱 최적 파장    |
+| **대역폭 (Bandwidth)**                   | **ADC 샘플레이트:** 50 \~ 3200 samples/sec (sps) <br> 18-bit Σ-Δ ADC 기반                                                                | 데이터 수집 속도       |
+| **변조 속도 (Modulation Speed)**          | **LED 펄스폭:** <br> - 69 µs (15bit 해상도) <br> - 118 µs (16bit) <br> - 215 µs (17bit) <br> - 411 µs (18bit)                           | LED 변조/샘플링 속도   |
+| **크기 및 패키징 (Dimensions & Packaging)** | **5.6 mm × 3.3 mm × 1.55 mm** <br> 14핀 OESIP 패키지                                                                                  | 웨어러블 기기용 초소형 모듈 |
 
 
 
