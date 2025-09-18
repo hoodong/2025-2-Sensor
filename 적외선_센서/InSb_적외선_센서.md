@@ -3,8 +3,8 @@
 
 
 **실물사진 및 설명**  
-<img width="914" height="598" alt="InSb 적외선 센서" src="https://github.com/user-attachments/assets/40b2eea3-7907-4e9b-aea7-f3c769cf1ec0" />
-
+<img width="457" height="299" alt="InSb 적외선 센서" src="https://github.com/user-attachments/assets/40b2eea3-7907-4e9b-aea7-f3c769cf1ec0" />
+  
 ### 특징 설명
 
 -   **금속 캡슐 패키지**
