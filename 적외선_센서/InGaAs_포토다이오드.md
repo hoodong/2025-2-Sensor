@@ -26,25 +26,25 @@ InGaAs 포토다이오드는 PIN구조와 APD구조로 나뉜다.
 
 ## PIN  
 ---
-<img width="291" height="564" alt="image" src="https://github.com/user-attachments/assets/82e2ad22-912b-4f21-ab3f-a8135e254e2b" />  
-<img width="524" height="288" alt="image" src="https://github.com/user-attachments/assets/92741bb9-eadb-4ea3-8835-409aec5baa19" />  
-<img width="563" height="416" alt="image" src="https://github.com/user-attachments/assets/7353ffbf-9ffa-4ba8-a6f5-e9f0b516f901" />  
+<img width="291" height="564" alt="image" src="https://github.com/user-attachments/assets/82e2ad22-912b-4f21-ab3f-a8135e254e2b" />     
+<img width="524" height="288" alt="image" src="https://github.com/user-attachments/assets/92741bb9-eadb-4ea3-8835-409aec5baa19" />      
+<img width="563" height="416" alt="image" src="https://github.com/user-attachments/assets/7353ffbf-9ffa-4ba8-a6f5-e9f0b516f901" />     
 PIN 포토다이오드는 P형과 N형 반도체 사이에 I층이 끼어 있는 구조이다.  
 I층은 전자나 정공이 거의 없는 순수한 반도체층으로, 빛을 효율적으로 흡수할 수 있다.  
 빛을 흡수하면 전자-정공 쌍이 생성되고, 이들이 전기장에 의해 이동하면서 전류가 생성된다.  
 
 ## APD
 ---
-<img width="291" height="506" alt="image" src="https://github.com/user-attachments/assets/04bc4d77-cd2f-4e03-936d-34eb19da9cd8" />  
-<img width="692" height="283" alt="image" src="https://github.com/user-attachments/assets/51080661-a5de-403b-a54a-f10f80a808d2" />  
-<img width="700" height="388" alt="image" src="https://github.com/user-attachments/assets/c5248b2c-611d-4ce0-a339-e3488c56e85e" />  
-APD 포토다이오드는 P⁺, P⁻, P층으로 구성된 다층 구조를 가지고 있으며, 각 층은 고유한 역할을 한다.  
-캐리어 농도가 낮은 P⁻층에서 빛을 흡수하여 전자-정공 쌍이 생성되며, 생성된 전자는 전기장에 의해 P층으로 이동한다.  
+<img width="291" height="506" alt="image" src="https://github.com/user-attachments/assets/04bc4d77-cd2f-4e03-936d-34eb19da9cd8" />    
+<img width="692" height="283" alt="image" src="https://github.com/user-attachments/assets/51080661-a5de-403b-a54a-f10f80a808d2" />    
+<img width="700" height="388" alt="image" src="https://github.com/user-attachments/assets/c5248b2c-611d-4ce0-a339-e3488c56e85e" />    
+APD 포토다이오드는 P⁺, P⁻, P층으로 구성된 다층 구조를 가지고 있으며, 각 층은 고유한 역할을 한다.    
+캐리어 농도가 낮은 P⁻층에서 빛을 흡수하여 전자-정공 쌍이 생성되며, 생성된 전자는 전기장에 의해 P층으로 이동한다.    
 이동 과정에서 전자는 반도체 내 원자와 충돌하며 추가적인 전자-정공 쌍을 생성한다.  
-이렇게 새롭게 생성된 전자들도 같은 방식으로 이동하며 다시 충돌을 일으키고, 전자-정공 쌍을 연쇄적으로 만들어낸다.  
-이러한 연쇄 반응은 전자-정공 쌍의 수를 눈사태처럼 증가시키며, 결과적으로 아주 약한 빛 신호도 강한 전류로 증폭해 감지할 수 있게 된다.  
+이렇게 새롭게 생성된 전자들도 같은 방식으로 이동하며 다시 충돌을 일으키고, 전자-정공 쌍을 연쇄적으로 만들어낸다.    
+이러한 연쇄 반응은 전자-정공 쌍의 수를 눈사태처럼 증가시키며, 결과적으로 아주 약한 빛 신호도 강한 전류로 증폭해 감지할 수 있게 된다.   
   
-APD는 PIN에 비해 감도가 높아 미약한 빛도 감지할 수 있지만, 노이즈 역시 함께 증폭되므로 주의가 필요하며, 더 높은 전압이 요구된다.  
+APD는 PIN에 비해 감도가 높아 미약한 빛도 감지할 수 있지만, 노이즈 역시 함께 증폭되므로 주의가 필요하며, 더 높은 전압이 요구된다.   
 
 # 데이터시트 및 설명  
 ## 주요 사양  
