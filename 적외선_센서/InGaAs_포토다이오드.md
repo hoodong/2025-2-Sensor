@@ -9,7 +9,8 @@ pn형 포토다이오드를 개량한 구조를 가진 광검출기이다.
 p형 반도체 층과 n형 반도체 층 사이에 **i형(Intrinsic)** 층을 사이에 둔 구조이다.   
 pin형 포토다이오드 동작 시 i형 층에 역바이어스 전압을 인가하여 **강한 전기장** 을 형성한다.  
 빛이 i형 층에 조사되면 전자와 홀 쌍이 생성되고, 전기장의 영향으로 전자와 홀이 각각 n형과 p형 층으로 이동하여 전류가 흐른다.
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/ce3405b0-b297-4042-ac9c-6179f7e74dd8" />  
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/23aaaf1c-e44f-4300-8869-8f66f5771fb8" />
+ 
 
 ## APD  
 APD의 작동 원리는 **'애벌런시 증배(Avalanche multiplication)'** 라는 현상을 기반으로 한다.  
