@@ -22,6 +22,7 @@
 
 3주차. 적외선 센서 9/18
 - 깃허브 연습 [1조](/연습/1조.md) [2조](/연습/2조.md) [3조](/연습/3조.md) [4조](/연습/4조.md) [5조](/연습/5조.md) [6조](/연습/6조.md) [7조](/연습/7조.md)
+  - [마크다운 문법](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - 양자형 적외선 센서  
   - [InSb 적외선 센서](적외선_센서/InSb_적외선_센서.md) (7)
   - [MCT 적외선 센서](적외선_센서/MCT_적외선_센서.md) (6)
