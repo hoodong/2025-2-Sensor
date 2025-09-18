@@ -67,7 +67,7 @@ NETD(Noise Equivalent Temperature Difference)는 카메라가 감지할 수 있�
 
 비파괴 검사: 고속으로 회전하는 기계 부품의 과열 여부, 복합 재료의 내부 결함 탐지. 
 
-
+---
 
 **구체적 응용사례**
 1. 단거리 미사일(AIM-9X 사이드와인더)  
