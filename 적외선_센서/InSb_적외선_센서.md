@@ -4,7 +4,7 @@
 
 InSb (Indium Antimonide)는 밴드갭[^1]이 약 0.17 eV인 III-V족 화합물 반도체[^2]이다.  
 작은 밴드갭으로 인해 상온이나 냉각 상태에서 중적외선[^3]을 매우 잘 흡수하여 전기 신호로 바꿀 수 있다.[^4]
-![InSb 적외선 센서 구조](./images/insb_structure.png)  
+![InSb 구조](https://github.com//hoodong/2025-2-Sensor/edit/main/적외선_센서/InSb_적외선_센서.md/blob/main/images/insb_structure.png) 
 ① 적외선 센싱 반도체: 적외선을 받아들여 전자를 여기시켜 전류를 생성  
 ② 창 or 렌즈: 적외선을 센서로 전달. 필터가 있어 특정 파장만 통과하게 함  
 ③ 진공 챔버: 외부 환경의 영향을 차단해 센서 소자를 낮은 온도, 진공 상태로 유지시킴  
