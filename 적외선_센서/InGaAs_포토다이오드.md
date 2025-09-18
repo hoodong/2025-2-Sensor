@@ -33,15 +33,15 @@ APD의 작동 원리는 **'애벌런시 증배(Avalanche multiplication)'** 라�
 | **Capacitance** | 다이오드의 정전용량. 낮을수록 응답 속도가 빠름 | pF |
 | **Bandwidth** | 포토다이오드가 처리할 수 있는 신호의 최대 주파수. 고속 데이터 전송 시 중요 | MHz, GHz |
 
-###FGA10 InGaAs photodiode datasheet
+### FGA10 InGaAs photodiode datasheet  
 <img width="327" height="194" alt="image" src="https://github.com/user-attachments/assets/f6608f6d-4ba9-4b33-a46a-9b78cacc1cdf" />
 
 
-##Responsivity vs Wavelength
+## Responsivity vs Wavelength  
 <img width="358" height="250" alt="image" src="https://github.com/user-attachments/assets/4fbc8377-12ac-43a6-b655-3657936822ae" />
 
 
-##Dark Current vs Reverse Voltage
+## Dark Current vs Reverse Voltage  
 <img width="554" height="423" alt="image" src="https://github.com/user-attachments/assets/b0ab9080-dac0-44b9-905d-f8dd1c42db58" />
 
 
