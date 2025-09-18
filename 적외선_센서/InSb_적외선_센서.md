@@ -15,13 +15,13 @@ InSb는 밴드갭이 작아 중적외선 정도의 작은 에너지로도 전자
 **2. 동작 원리 요약**
 
 광도전 효과 (Photoconductive Effect) 또는 광기전 효과 (Photovoltaic Effect)**를 이용한다.
-1. 광기전 효과 (Photovoltaic, 주로 냉각형 센서에 사용)
+1. 광기전 효과 (Photovoltaic, 주로 냉각형 센서에 사용)  
 ① **적외선(IR)**이 InSb 소재에 입사되면,  
 ② 적외선의 에너지가 InSb의 전자들을 가열하여  
 ③ 전자(electron)-정공(hole) 쌍을 생성.  
 ④ 이 전하들이 전극 사이로 이동하면서 전류 또는 전압을 생성 → 신호로 측정됨.  
 
-2. 광도전 효과 (Photoconductive)  
+3. 광도전 효과 (Photoconductive)  
 ① **적외선(IR)**이 InSb 소재에 입사되면,    
 ② 자유전자의 수가 증가 → 전기 전도도 증가.  
 ③ 이 전도도의 변화가 센서 회로에서 감지되어 적외선의 세기로 환산.
