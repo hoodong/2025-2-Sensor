@@ -67,7 +67,8 @@
 
 이는 자동차의 안티록 브레이크 시스템(ABS) 및 전자식 자세 제어 장치(ESC)에서 휠 속도를 비접촉식으로 측정하는 핵심적인 역할을 수행합니다.  
 
-<img width="259" height="195" alt="unnamed" src="https://github.com/user-attachments/assets/7ee5e11c-2b10-46ff-8b4d-55492efcd853" />
+<img width="563" height="347" alt="image" src="https://github.com/user-attachments/assets/0d183d60-938c-4713-a373-f739d2f82673" />
+
 
 ---
 
