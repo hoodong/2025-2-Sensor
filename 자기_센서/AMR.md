@@ -1,4 +1,4 @@
-동작 원리
+## 동작 원리
 강자성체 물질의 전기 저항이 외부 자기장의 방향에 따라 변화하는 현상을 이용한다.
 자성을 띠는 물질에 전류를 흘릴 때, 외부에서 자기장이 가해지면 물질 내부의
 자화 방향이 변화 - > 저항 값 변화 - > 자기장 세기와 방향을 감지
@@ -9,13 +9,24 @@
 
 [영상]() 
 
+---
 
-실물사진 및 설명
+## 실물사진 및 설명
 
+---
+
+##  데이터시트 및 설명
+
+### AMR 3-Axis Magnetic Sensor
+
+- ±30 G 측정 범위, 20비트 분해능, 2 mG RMS 노이즈, ±1° 방위각 정확도  
+- 온칩 SET/RESET 자기소거, 감도 및 온도 보상 기능  
+- I²C/I³C 인터페이스(≤400 kHz), 초저전력(대기 전류 1 μA)  
+- 초소형 패키지(0.8 × 0.8 × 0.4 mm), 전원 1.62–3.6 V 지원  
  
-데이터시트 및 설명
-  
-# I²C Interface I/O Characteristics (VIO = 1.8 V)
+
+### I²C Interface I/O Characteristics (VIO = 1.8 V)
+https://www.mouser.com/datasheet/2/821/Memsic_09102019_MMC5603NJ_Datasheet_Rev.B-1635324.pdf?srsltid=AfmBOor2hyGkYhgWEA5xXNwtmV0jE1cIe_rF1IEPihrtj4wS5rKTTi4e
 
 | Parameter                          | Symbol   | Test Condition                  | Min   | Typ | Max        | Unit |
 |-----------------------------------|----------|---------------------------------|-------|-----|------------|------|
@@ -38,7 +49,7 @@
 
 ---
   
-구체적 응용사례 (한가지 응용사례를 골라 사진 등을 통해 깊이있게 설명할 것)
+## 구체적 응용사례
 
 
  
