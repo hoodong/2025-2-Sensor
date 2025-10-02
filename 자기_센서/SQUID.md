@@ -24,7 +24,7 @@ SQUID는 **매우 미세한 자기장**을 감지할 수 있는 세계에서 가
 
 ## 2. 실물 사진 및 구성 요소
 
-![SQUID Sensor](https://tse1.mm.bing.net/th/id/OIP.-HfI9Px4IGdy3bTAqUyX2gHaE6?pid=Api)
+![실제 연구실에 설치된 SQUID 장비](https://i.imgur.com/C5mYtL0.png)
 
 ### 구성 요소
 | 구성요소 | 역할 / 특징 | 크기 |
