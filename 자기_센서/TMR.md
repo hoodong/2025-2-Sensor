@@ -64,7 +64,7 @@ https://www.youtube.com/watch?v=bskOtHWzn1c
 - Hysteresis (BHYST) : 동작점(BOP)과 복귀점(BRP) 사이의 자기장 차이로, 센서가 신호의 잦은 ON/OFF 전환 없이 안정적으로 동작하도록 돕는 기능입니다. 히스테리시스 값이 클수록 센서는 작은 자기장 변동에 덜 민감하게 반응합니다.
  * **Hysteresis**는 **자기장이 변할 때 센서의 반응이 다르게 일어나는** 현상을 나타냅니다. 즉, 센서가 **BOP (Operate Point)** 에 도달하여 **HIGH** 상태로 바뀌고, 자기장이 다시 감소하여 **BRP (Release Point)** 에 도달하면 **LOW** 상태로 변합니다. 하지만 자기장이 **BRP**로 감소했다고 해서 센서가 즉시 **LOW**로 전환되는 것은 아니며, **BOP**에 도달하기까지 센서는 일정한 자기장 변화 구간을 거치게 됩니다.
 
-<img width="942" height="808" alt="image" src="https://github.com/user-attachments/assets/4c5e24d2-d270-45da-8c96-47170f106116" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4c5e24d2-d270-45da-8c96-47170f106116" />
 
   
 # 구체적 응용사례 
