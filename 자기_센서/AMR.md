@@ -1,12 +1,12 @@
-동작 원리
+## 동작 원리
 
+---
+## 실물사진 및 설명
 
-실물사진 및 설명
-
- 
-데이터시트 및 설명
-  
-# I²C Interface I/O Characteristics (VIO = 1.8 V)
+--- 
+## 데이터시트 및 설명
+https://www.mouser.com/datasheet/2/821/Memsic_09102019_MMC5603NJ_Datasheet_Rev.B-1635324.pdf?srsltid=AfmBOor2hyGkYhgWEA5xXNwtmV0jE1cIe_rF1IEPihrtj4wS5rKTTi4e
+### I²C Interface I/O Characteristics (VIO = 1.8 V)
 
 | Parameter                          | Symbol   | Test Condition                  | Min   | Typ | Max        | Unit |
 |-----------------------------------|----------|---------------------------------|-------|-----|------------|------|
@@ -27,9 +27,8 @@
 | Bus Free Time Between STOP & START| tBUF     |                                 | 1.3   |     |            | μs   |
 | STOP Setup Time                   | tSU;STO  |                                 | 0.6   |     |            | μs   |
 
----
-  
-구체적 응용사례 (한가지 응용사례를 골라 사진 등을 통해 깊이있게 설명할 것)
+---  
+## 구체적 응용사례 (한가지 응용사례를 골라 사진 등을 통해 깊이있게 설명할 것)
 
 
  
