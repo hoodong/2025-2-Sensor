@@ -9,7 +9,11 @@
 평균자유행정:입자(분자, 원자 등)가 다른 입자와 충돌하지 않고 이동하는 평균 거리
 
 https://www.youtube.com/watch?v=lqHcIFReqLg
-2:13 ~ 2:43
+2:13 ~ 2:43에서 발췌
+
+<img width="1169" height="532" alt="image" src="https://github.com/user-attachments/assets/b7b6c175-fa3a-416a-bbb0-dc6322d2c360" />
+<img width="1140" height="480" alt="image" src="https://github.com/user-attachments/assets/3a58d2bd-d21f-42e8-b19b-0174136e3759" />
+
 
 
 
