@@ -1,26 +1,31 @@
-# 동작 원리  
-강자성체 물질의 전기 저항이 외부 자기장의 방향에 따라 변화하는 현상을 이용한다.\
-자성을 띠는 물질에 전류를 흘릴 때, 외부에서 자기장이 가해지면 물질 내부의
-자화 방향이 변화 - > 저항 값 변화 - > 자기장 세기와 방향을 감지
-저항 변화는 전류의 방향과 자화 방향이\
-평행이면: 저항이 최대\
-수직이면: 저항이 최소\
-이 저항 변화를 측정하여 자기장의 세기와 방향을 감지함.  
-
-[영상](https://www.youtube.com/watch?v=91ZnHEboFbI) - 영어
-
-
-
-
-실물사진 및 설명  
-![이미지 설명](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLkLeaY4PklzJP4iNfFM-N6boBq4ose8dFWw&s)  
-단가 : 개당 969원  
-축 : 3방향을 감지할 수 있는 X,Y,Z로 구성  
-크기 : 0.82 mm × 0.82 mm × 0.40 mm  
- 
-데이터시트 및 설명
+## 1. 동작 원리  
+- 강자성체 물질의 전기 저항이 외부 자기장의 방향에 따라 변화하는 현상을 이용한다.
+- 자성을 띠는 물질에 전류를 흘릴 때
+  - 외부에서 자기장이 가해지면 물질 내부의 자화 방향이 변화
+  - 저항 값 변화
+  - 자기장 세기와 방향을 감지
+- 저항 변화는 전류의 방향과 자화 방향에 따라 달라진다.
+  - 평행: 저항이 최대
+  - 수직: 저항이 최소
   
-# I²C Interface I/O Characteristics (VIO = 1.8 V)
+  → 이 저항 변화를 측정하여 자기장의 세기와 방향을 감지한다.  
+
+[설명 영상](https://www.youtube.com/watch?v=91ZnHEboFbI)
+
+---
+
+
+## 2. 실물사진 및 설명  
+![이미지 설명](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLkLeaY4PklzJP4iNfFM-N6boBq4ose8dFWw&s)  
+- 단가 : 개당 969원  
+- 축 : 3방향을 감지할 수 있는 X,Y,Z로 구성  
+- 크기 : 0.82 mm × 0.82 mm × 0.40 mm  
+
+---
+
+## 3. 데이터시트 및 설명
+  
+### I²C Interface I/O Characteristics (VIO = 1.8 V)
 
 | Parameter                          | Symbol   | Test Condition                  | Min   | Typ | Max        | Unit |
 |-----------------------------------|----------|---------------------------------|-------|-----|------------|------|
