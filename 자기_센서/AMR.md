@@ -12,7 +12,10 @@
 
 
 실물사진 및 설명
-
+![이미지 설명](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLkLeaY4PklzJP4iNfFM-N6boBq4ose8dFWw&s)
+단가 : 개당 969원
+축 : 3방향을 감지할 수 있는 X,Y,Z로 구성
+크기 : 0.82 mm × 0.82 mm × 0.40 mm
  
 데이터시트 및 설명
   
