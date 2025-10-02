@@ -93,7 +93,9 @@
 
 
 ## 4. 구체적 응용사례: 전기차 배터리 관리 시스템 (BMS)의 전류 센서
-<img width="749" height="537" alt="Screenshot from 2025-10-02 11-19-37" src="https://github.com/user-attachments/assets/a8b03969-552f-46f8-b026-bca59a0d01d2" /><img width="898" height="693" alt="Screenshot from 2025-10-02 10-35-42" src="https://github.com/user-attachments/assets/bbf26dc0-e265-4915-b419-e6cf5ba68774" />
+<img width="656" height="667" alt="Screenshot from 2025-10-02 11-28-29" src="https://github.com/user-attachments/assets/eb19ac8b-a508-445c-ad08-faa2969f915c" /><img width="683" height="651" alt="Screenshot from 2025-10-02 11-29-21" src="https://github.com/user-attachments/assets/c3bc2297-8949-4d51-8b1f-d2f52646f4e3" />
+
+
 
 
 자기저항소자의 가장 중요하고 구체적인 응용사례 중 하나는 **전기차의 핵심 부품인 배터리 관리 시스템(BMS, Battery Management System)에 탑재되는 전류 센서**입니다.
