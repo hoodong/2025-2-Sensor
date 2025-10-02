@@ -47,9 +47,12 @@ DC SQUID는 RF SQUID에 비해 원리적으로 자속 분해능(최소 자기 �
 ## 2. 실물 사진 및 구성 요소
 
 <img width="700" height="400" alt="SS" src="https://github.com/user-attachments/assets/aa8e7581-51cb-4f95-823e-6aea69864620" />  
-Quantum Design 社의 MPMS (Magnetic Property Measurement System)  
-구매처·옵션(냉각 방식, 측정 모듈)에 따라 기본형 MPMS SQUID-VSM 시스템: 수억 원대 (보통 5~10억 원)  
-옵션(고자기장, 저온 모듈, AC 측정, 고온 옵션 등)에 따라 가격은 훨씬 올라갈 수 있음. 유지·설치 비용(헬륨 리필, 크라이오쿨러 등)도 비쌈.  
+
+- 모델: **Quantum Design MPMS (Magnetic Property Measurement System)**  
+- 구성: SQUID-VSM 기반 자기 특성 측정 장비  
+- 가격: **수억 원대 (보통 5~10억 원)**  
+- 옵션: 고자기장 모듈, 저온 모듈, AC 측정, 고온 옵션 등 추가 시 가격 상승  
+- 유지·설치 비용: 헬륨 리필, 크라이오쿨러 운영 등 부대 비용이 큼  
 
 ### 구성 요소
 
@@ -138,9 +141,4 @@ MEG(Magnetoencephalography)는 뇌의 활동으로 인해 발생하는 미세한
 - **민감도**: 극도로 미세한 자기장(10⁻¹³에서 10⁻¹⁵ 테슬라)
 - **용도**: 뇌전증(간질) 환자, 뇌종양 및 기타 뇌질환 수술 환자, 또는 치매, 파킨슨병, 정신 질환 등 다양한 신경 및 정신 질환의 진단과 연구에도 사용
 - **환경**: 자기 차폐실 필요(외부 자기장 간섭 차단)
-
----
-
-
----
 
