@@ -67,8 +67,6 @@
 
 이는 자동차의 안티록 브레이크 시스템(ABS) 및 전자식 자세 제어 장치(ESC)에서 휠 속도를 비접촉식으로 측정하는 핵심적인 역할을 수행합니다.  
 
-아래 사진 속 바퀴 안쪽 톱니바퀴에 부착되어 있습니다.  
-
 <img width="259" height="195" alt="unnamed" src="https://github.com/user-attachments/assets/7ee5e11c-2b10-46ff-8b4d-55492efcd853" />
 
 ---
