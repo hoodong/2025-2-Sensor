@@ -96,6 +96,7 @@ GMR 기반 각도 센서
 | 동기화 오차 (Synchronism)        | 95 – 105 %    |
 
 싱글엔드 출력: 하나의 출력 핀에서 얻는 전압 신호 범위입니다. 단일 채널로 제어가 간단하지만, 잡음에 민감할 수 있습니다.
+
 차동 출력: 두 신호 간의 전압 차를 이용하는 출력입니다. 노이즈에 강하고 정밀한 각도 검출이 가능합니다.
 
 
@@ -116,7 +117,8 @@ GMR 기반 각도 센서
 
 하드디스크 드라이버 읽기 헤드
 
-<img width="492" height="247" alt="image" src="https://github.com/user-attachments/assets/18356f3b-7edf-4b03-b78b-4aa6a717fb91" />
+<img width="359" height="378" alt="IMG_6603" src="https://github.com/user-attachments/assets/83f119e1-35c6-4d9c-8eba-8ec6f87abe40" />
+
 
   -GMR기술의 가장 대표적인 응용사례
   
