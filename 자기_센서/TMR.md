@@ -18,7 +18,9 @@ https://www.youtube.com/watch?v=bskOtHWzn1c
 
 # 실물사진 및 설명 
 <img width="600" height="436" alt="image" src="https://github.com/user-attachments/assets/f990ead2-1754-456b-b416-8a06791900c1" />
+
 제조사 :  Allegro MicroSystems
+
 제조업체 부품 번호 : CT427-HSN820MR
 
 ## 1) 구성 
