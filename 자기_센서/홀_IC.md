@@ -54,3 +54,4 @@ Allegro MicroSystems에서 제조, 1개당 가격은 ₩6,086 입니다.
 <img width="810" height="611" alt="image" src="https://github.com/user-attachments/assets/0e576c36-a063-446a-a932-e4ac3d1a9b6f" />
 
 BLDC 모터는 영구자석이 있는 회전자로 구성되며, 홀 IC는 회전자의 정확한 위치를 감지하여 코일에 전류를 적시에 전환하는(정류하는) 역할을 합니다. 이를 통해 모터의 회전 속도와 방향을 정밀하게 제어할 수 있습니다.
+이는 정밀한 구동을 목표로 하는 전자제품 전반에 사용되고 있습니다.
