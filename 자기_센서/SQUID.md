@@ -36,7 +36,7 @@ SQUID(초전도 양자 간섭계)는 **현존하는 자기 센서 중 가장 높
   - 직류 전류로 구동되며, RF SQUID보다 자속 분해능이 높아 더 높은 감도를 가짐  
   - 박막 제작 기술 발전으로 인해 DC SQUID 연구가 활발히 이루어짐
 
-DCSQUID는 RFSQUID에 비해 원리적으로 자속 분해능(최소 자기 자속의 변화량)이 높고 고감도이기 때문에, DCSQUID의 연구가 활발해졌음.  
+DC SQUID는 RF SQUID에 비해 원리적으로 자속 분해능(최소 자기 자속의 변화량)이 높고 고감도이기 때문에, DC SQUID의 연구가 활발해졌음.  
 
 📌 **핵심 개념**  
 - 초전도 루프 내부의 자기 플럭스는 항상 **자속 양자(Φ₀ = h / 2e)** 의 정수배로만 존재함
@@ -46,7 +46,7 @@ DCSQUID는 RFSQUID에 비해 원리적으로 자속 분해능(최소 자기 자�
 
 ## 2. 실물 사진 및 구성 요소
 
-<img width="700" height="400" alt="SS" src="https://github.com/user-attachments/assets/aa8e7581-51cb-4f95-823e-6aea69864620" />
+<img width="700" height="400" alt="SS" src="https://github.com/user-attachments/assets/aa8e7581-51cb-4f95-823e-6aea69864620" />  
 Quantum Design 社의 MPMS (Magnetic Property Measurement System)  
 구매처·옵션(냉각 방식, 측정 모듈)에 따라 기본형 MPMS SQUID-VSM 시스템: 수억 원대 (보통 5~10억 원)  
 옵션(고자기장, 저온 모듈, AC 측정, 고온 옵션 등)에 따라 가격은 훨씬 올라갈 수 있음. 유지·설치 비용(헬륨 리필, 크라이오쿨러 등)도 비쌈.  
