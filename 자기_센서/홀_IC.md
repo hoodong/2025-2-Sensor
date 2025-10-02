@@ -22,7 +22,7 @@ ACS70310은 소형(길이 약 5.5mm) 4핀 패키지에 **홀 센서**(자기장 
 
 ---
 
-# 3. 데이터시트 요약설명
+# 3. 데이터시트 및 요약설명
 ## ACS70310 & ACS70311 선형 홀 IC
 <img width="599" height="781" alt="스크린샷_20251002_101336" src="https://github.com/user-attachments/assets/48aaff23-f19b-4f54-9a46-8762a2c2a93b" />
 
