@@ -27,29 +27,40 @@ https://www.youtube.com/watch?v=lqHcIFReqLg\
 
 
 **실물사진 및 설명**
+
+
 TLE5014 S16XU MA1 모델의 사진
 <img width="242" height="205" alt="센서" src="https://github.com/user-attachments/assets/29920d3f-9cb8-42e5-b687-b284cb5badd0" />
 
 구성요소
+
 pin1
 기호: IF1,	In/Out기능:I,	버스 모드 프로그래밍을 위한 주소 코딩 핀.
+
 pin2
 기호: IF2,	In/Out기능:I,	버스 모드 프로그래밍을 위한 주소 코딩 핀.
+
 pin3
 기호: IF3,	In/Out기능:I,	IFC와 연결.
+
 pin4
 기호: VDD,  In/Out기능X, 	양극전원 전압 공급.
+
 pin5
 GND,	In/Out기능X,	접지 전압 공급.
+
 pin6
 기호: IFA, In/Out기능X, 	GND와 연결.
+
 pin7
 기호: IFB, In/Out기능:	I/O,	SENT / SPC / PWM / SICI 인터페이스.
+
 pin8
 기호: IFC, In/Out기능:	O,	버스 모드 프로그래밍을 위한 주소 코딩 핀.
 pin9-16	 연결하지 않음
 
 크기
+
 길이: 6.0 mm
 너비: 5.0 mm
 높이: 1.5 mm
