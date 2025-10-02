@@ -65,8 +65,6 @@ SQUID(초전도 양자 간섭계)는 **현존하는 자기 센서 중 가장 높
 - 루프 유도성·Shunt 저항 값은 **노이즈 특성과 직결**  
 - 교육용 칩(Mr. SQUID): **약 1 cm²** 크기 칩 안에 루프·접합·코일이 모두 집적
 
-예: **Mr. SQUID 키트**에서는 1 cm² 칩 위에 제작된 SQUID가 프로브와 냉각기 안에 장착됩니다.  
-([Mr. SQUID 매뉴얼](https://starcryo.com/wp-content/themes/education-pro/manuals/MrSQm66.pdf))
 
 ---
 
