@@ -46,8 +46,9 @@ ACS70310은 소형(길이 약 5.5mm) 4핀 패키지에 **홀 센서**(자기장 
 # 4. 응용사례
 ## BLDC 모터  
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1fd4f5b6-2cf3-48d6-a060-d5a403c3bc30" />  
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/1fd4f5b6-2cf3-48d6-a060-d5a403c3bc30" />  
 필즈모터 사의 BLDC 모터 90600원  
 
-<img width="1620" height="1222" alt="image" src="https://github.com/user-attachments/assets/0e576c36-a063-446a-a932-e4ac3d1a9b6f" />  
+<img width="810" height="611" alt="image" src="https://github.com/user-attachments/assets/0e576c36-a063-446a-a932-e4ac3d1a9b6f" />
+
 BLDC 모터는 영구자석이 있는 회전자로 구성되며, 홀 IC는 회전자의 정확한 위치를 감지하여 코일에 전류를 적시에 전환하는(정류하는) 역할을 합니다. 이를 통해 모터의 회전 속도와 방향을 정밀하게 제어할 수 있습니다.
