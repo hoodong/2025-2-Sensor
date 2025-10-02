@@ -10,7 +10,11 @@
   
   → 이 저항 변화를 측정하여 자기장의 세기와 방향을 감지한다.  
 
-[설명 영상](https://www.youtube.com/watch?v=91ZnHEboFbI)
+[설명 영상](https://www.youtube.com/watch?v=91ZnHEboFbI](https://www.youtube.com/watch?v=F8B8dm2HFME) \
+0:34~1:00 까지  
+
+
+
 
 ---
 
