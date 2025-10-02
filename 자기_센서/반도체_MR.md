@@ -55,7 +55,7 @@
 
 사진은 **AKM(Asahi KASEI MICRODEVICES)**사에서 제작한 **MS0031 반도체 자기저항 소자**입니다.
 
-<img width="92" height="92" alt="image" src="https://github.com/user-attachments/assets/a87798ce-3ee3-44c6-8ced-32434546aabc" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a87798ce-3ee3-44c6-8ced-32434546aabc" />
 
 
 - 외부 (패키지): 사진에서 보이는 검은색 몸체는 **에폭시 수지(Epoxy Resin)**로 만들어져 내부의 민감한 회로를 보호합니다.  
