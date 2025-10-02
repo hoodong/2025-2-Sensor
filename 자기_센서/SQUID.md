@@ -22,6 +22,19 @@ SQUID(초전도 양자 간섭계)는 **현존하는 자기 센서 중 가장 높
 [![초전도체](https://img.youtube.com/vi/zNrKNYu0K4k/0.jpg)](https://youtube.com/shorts/zNrKNYu0K4k?si=OuLz8WCcePR98rLW)
 [![조셉슨 효과](https://img.youtube.com/vi/I9Cr3u1Yrww/0.jpg)](https://youtube.com/shorts/I9Cr3u1Yrww?si=8DGUbLVJ3sGIjUyX)
 
+- **DC SQUID**  
+  두 개의 Josephson 접합을 병렬로 연결한 구조로, 외부 자기장 변화가 루프 전류 분배에 영향을 주어 출력 전압이 주기적으로 변합니다.  
+
+- **RF SQUID**  
+  하나의 Josephson 접합과 공진회로를 결합한 구조로, 설계는 단순하지만 감도는 DC SQUID보다 낮습니다.  
+
+📌 **핵심 개념**  
+- 루프 안에 들어오는 자기 플럭스(Φ)는 항상 자속 양자 단위(Φ₀)의 정수배여야 합니다.  
+- 따라서 외부 자기장이 조금만 변해도 내부에 보상 전류가 생기고, 이 전류의 변화를 전압 신호로 읽어낼 수 있습니다.  
+
+> \[
+> \Phi = n \Phi_0, \quad \Phi_0 = \frac{h}{2e}
+> \]
 ---
 
 ## 2. 실물 사진 및 구성 요소
