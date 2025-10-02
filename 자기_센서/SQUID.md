@@ -46,6 +46,9 @@ DCSQUID는 RFSQUID에 비해 원리적으로 자속 분해능이 높고 고감�
 ## 2. 실물 사진 및 구성 요소
 
 <img width="700" height="400" alt="SS" src="https://github.com/user-attachments/assets/aa8e7581-51cb-4f95-823e-6aea69864620" />
+Quantum Design 社의 MPMS (Magnetic Property Measurement System)  
+구매처·옵션(냉각 방식, 측정 모듈)에 따라 기본형 MPMS SQUID-VSM 시스템: 수억 원대 (보통 5~10억 원)  
+옵션(고자기장, 저온 모듈, AC 측정, 고온 옵션 등)에 따라 가격은 훨씬 올라갈 수 있음. 유지·설치 비용(헬륨 리필, 크라이오쿨러 등)도 비쌈.  
 
 ### 구성 요소
 
