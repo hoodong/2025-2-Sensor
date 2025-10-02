@@ -19,7 +19,8 @@ SQUID(초전도 양자 간섭계)는 **현존하는 자기 센서 중 가장 높
 따라서 뇌자기파(MEG), 심자기파 같은 생체 신호 탐지 등 기존 센서로는 불가능한 초정밀 측정이 가능합니다.
 
 📺 **동작 원리 설명 영상**  
-[![SQUID 동작 영상](https://img.youtube.com/vi/ql2Yo5LgU8M/0.jpg)](https://www.youtube.com/watch?v=ql2Yo5LgU8M)
+[![초전도체](https://img.youtube.com/vi/zNrKNYu0K4k/0.jpg)](https://youtube.com/shorts/zNrKNYu0K4k?si=OuLz8WCcePR98rLW)
+[![조셉슨 효과](https://img.youtube.com/vi/I9Cr3u1Yrww/0.jpg)](https://youtube.com/shorts/I9Cr3u1Yrww?si=8DGUbLVJ3sGIjUyX)
 
 ---
 
