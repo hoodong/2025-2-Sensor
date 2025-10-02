@@ -7,7 +7,7 @@
 수직이면: 저항이 최소\
 이 저항 변화를 측정하여 자기장의 세기와 방향을 감지함.  
 
-[영상](https://www.youtube.com/watch?v=91ZnHEboFbI) - 영어영상\
+[영상](https://www.youtube.com/watch?v=91ZnHEboFbI) - 영어
 
 
 
