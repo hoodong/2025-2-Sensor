@@ -53,7 +53,7 @@
 
 ## 2. 실물 사진 및 설명
 
-사진은 **AKM(Asahi KASEI MICRODEVICES)**사에서 제작한 **MS0031 반도체 자기저항 소자**입니다.
+사진은 **AKM**(**Asahi KASEI MICRODEVICES**)사에서 제작한 **MS0031 반도체 자기저항 소자**입니다.
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/d8f21b3b-e0a5-4cd4-b65a-ca1af665c205" />
 
