@@ -24,7 +24,7 @@ SQUID는 **매우 미세한 자기장**을 감지할 수 있는 세계에서 가
 
 ## 2. 실물 사진 및 구성 요소
 
-<img width="984" height="560" alt="SS" src="https://github.com/user-attachments/assets/aa8e7581-51cb-4f95-823e-6aea69864620" />
+<img width="700" height="400" alt="SS" src="https://github.com/user-attachments/assets/aa8e7581-51cb-4f95-823e-6aea69864620" />
 
 ### 구성 요소
 | 구성요소 | 역할 / 특징 | 크기 |
@@ -37,7 +37,7 @@ SQUID는 **매우 미세한 자기장**을 감지할 수 있는 세계에서 가
 | 냉각 시스템 | 초전도 상태 유지(액체 헬륨/질소) | 수십 cm 크기 |
 | 자기 차폐 | 외부 노이즈 차폐 | cm 단위 쉴드 |
 
-## ✅ 특징 요약
+### ✅ 특징 요약
 
 - SQUID는 **“초전도 루프 + Josephson 접합 2개”**가 핵심 구조.  
 - **루프 크기**는 응용 목적에 따라 달라져서, 고감도 자성 탐침은 µm 이하, 일반 센서는 수백 µm까지 가능.  
