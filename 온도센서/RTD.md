@@ -57,7 +57,7 @@ URL: http://www.youtube.com/watch?v=qTBu-moi8bc
 
 
 ### 📸 실물 예시
-![RTD 헤드형 프로브](1.jpg)
+![RTD 헤드형 프로브]([1.jpg](https://jakar.s18.cdn-upgates.com/_cache/7/e/7e29ccff102aae735cb1359793011235-p-ultra-rtd-l.jpg))
 ![PT100 박막 엘리먼트](2.png)
 
 ---
