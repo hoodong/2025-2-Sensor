@@ -51,23 +51,24 @@ RTD는 **온도에 따라 금속의 전기저항이 변하는 성질**을 이용
 
 
 ## 2. 실물 사진 및 구성 요소
----
 
 ### 📸 실물 예시
 ![PT100 RTD Probe](https://upload.wikimedia.org/wikipedia/commons/5/5c/PT100_Resistance_Temperature_Detector.jpg)
 ![PT100 Thin Film Element](https://upload.wikimedia.org/wikipedia/commons/6/69/PT100_Thin_film_element.jpg)
+
+---
 
 ### ⚙️ 주요 구성 요소
 
 | 구성 요소 | 설명 | 대표 크기 / 사양 |
 |------------|------|----------------|
 | **감지 소자 (Platinum Element)** | 백금선을 세라믹 기판에 감거나, 박막 형태로 제작된 온도 감지부 | Thin-film: `2.3×1.2×1.1 mm` ~ `5.0×2.0×1.1 mm`<br>Wire-wound: `Ø 1.5×15 mm` |
-| **보호관 (Sheath)** | 감지 소자를 보호하는 금속관. 외부 충격·습기·부식 방지 | 재질: 316 L 스테인리스<br>외경: `1.5–8 mm` |
-| **절연 충전재 (MgO)** | 내부 리드선을 절연하고 열전달 효율을 높임 | 고순도 산화마그네슘 |
-| **트랜지션(에폭시 포팅)** | 보호관과 케이블 접합부를 수지로 밀봉해 방수·인장보호 | 길이 약 15–25 mm |
-| **리드선 / 케이블** | 2·3·4선식 연결 방식, 고온 절연재(FEP/PFA) 사용 | 기본 길이 1 m |
-| **종단부 (Termination)** | 회로 연결용 단자. M12 커넥터나 포크 단자 형태 다양 | 선택 사양 |
-| **써모웰 (옵션)** | 교체 및 내압성 향상용 보호관 | 나사형 / 플랜지형 |
+| **보호관 (Sheath)** | 감지 소자를 보호하는 금속관. 외부 충격·습기·부식 방지 | 재질: 316L 스테인리스<br>외경: `1.5 – 8 mm` |
+| **절연 충전재 (MgO)** | 내부 리드선을 절연하고 열전달 효율을 높임 | 고순도 산화마그네슘 분말 |
+| **트랜지션 (Epoxy Potting)** | 보호관과 케이블 접합부를 수지로 밀봉하여 방수·인장 보호 | 길이 `15 – 25 mm` |
+| **리드선 / 케이블** | 2·3·4선식 연결 방식, 절연재는 고온 대응(FEP/PFA) | 기본 길이 `1 m` |
+| **종단부 (Termination)** | 회로 연결용 단자 (M12 커넥터, 포크 단자 등) | 선택 사양 |
+| **써모웰 (옵션)** | 교체 및 내압성 향상을 위한 외부 보호관 | 나사형 / 플랜지형 |
 
 ---
 
@@ -77,18 +78,35 @@ RTD는 **온도에 따라 금속의 전기저항이 변하는 성질**을 이용
 |------|------|------|------------|
 | 소형 프로브 | Ø 3 mm | 76 mm | −70 ~ 200 °C |
 | 산업용 프로브 | Ø 6.35 mm (¼″) | 152 mm | −70 ~ 500 °C |
-| 엘리먼트 단품 | 2.3 ~ 5 mm | — | −200 ~ 600 °C |
+| 엘리먼트 단품 | 2.3 ~ 5 mm (길이) | — | −200 ~ 600 °C |
 
 ---
 
 ### 🧩 형태별 예시
 
-| 타입 | 특징 | 예시 |
-|------|------|------|
-| 리드선형 프로브 | 케이블 일체형, 기계·3D 프린터용 | ![Lead Wire RTD](https://www.omega.com/Images/rtssensor-leadwire.jpg) |
-| M12 커넥터형 | 탈착 용이, IP67 방수 | ![M12 RTD](https://www.evosensors.com/images/PT100-M12-RTD.jpg) |
-| 헤드형 터미널 | 플랜트용, 단자박스 결선 | ![Terminal Head RTD](https://www.labfacility.com/media/catalog/product/cache/rtdd.jpg) |
-| 엘리먼트 단품 | 세라믹 위 백금 박막칩 형태 | ![Thin Film Element](https://upload.wikimedia.org/wikipedia/commons/6/69/PT100_Thin_film_element.jpg) |
+| 타입 | 특징 | 예시 이미지 |
+|------|------|--------------|
+| **리드선형 프로브** | 케이블 일체형, 기계·3D프린터 등에 사용 | ![Lead Wire RTD](https://cdn.omega.com/Images/Temperature/RTD/PT100-SENSOR.jpg) |
+| **M12 커넥터형** | 탈착이 쉬우며 IP67 방수 | ![M12 RTD](https://cdn.shopify.com/s/files/1/0266/0561/9888/files/m12_rtd_sensor.jpg) |
+| **헤드형 터미널** | 플랜트 공정용, 단자박스 결선 가능 | ![Terminal Head RTD](https://www.labfacility.com/media/catalog/product/cache/pt100-head-assembly.jpg) |
+| **엘리먼트 단품** | 세라믹 위 백금 박막칩 형태 | ![Thin Film Element](https://upload.wikimedia.org/wikipedia/commons/6/69/PT100_Thin_film_element.jpg) |
+
+---
+
+### 💰 가격 정보 (2025년 기준 대략가)
+
+| 제품명 / 형태 | 제조사 | 주요 사양 | 가격(₩, 부가세 제외) | 판매처 |
+|----------------|---------|-------------|------------------|---------|
+| **PT100 기본형 RTD 프로브** | G마켓 (OEM) | Ø6mm × 100mm, 3선식 | 약 **₩30,000** | [G마켓](https://www.gmarket.co.kr) |
+| **Adam Tech CA-TS-003 RTD PT100** | DigiKey | 산업용, 3선식, 500°C | 약 **₩78,000** | [DigiKey](https://www.digikey.kr) |
+| **Labfacility PT100 Probe (3×50mm)** | Labfacility | 소형, Class A | 약 **₩79,000** | [element14](https://kr.element14.com) |
+| **PT100 NPT 터미널 헤드형** | 국내 유통 (산업용) | ¼″ NPT, IP67 헤드 | 약 **₩30,000** | [G마켓](https://www.gmarket.co.kr) |
+| **PT100 NPT 스레드형** | AliExpress | 6mm × 100mm, 3선 | 약 **₩11,000** | [AliExpress](https://www.aliexpress.com) |
+| **Pico SE011 Pt100 Probe** | Pico Tech | 데이터로거용, Class A | 약 **₩64,000** | [element14](https://kr.element14.com) |
+| **OMEGA RTD-805-B 고정밀형** | OMEGA | 산업용, Class A, SS 시스 | 약 **₩510,000** | [DigiKey](https://www.digikey.kr) |
+
+> 💡 가격은 제조사/길이/정확도 등급(Class A·B)에 따라 크게 달라지며,  
+> **일반형은 1–3만원대**, **정밀형·산업용은 5–50만원대**까지 다양합니다.
 
 ## 3. 데이터시트 및 핵심 파라미터
 ---
