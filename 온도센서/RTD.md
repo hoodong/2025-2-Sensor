@@ -46,6 +46,9 @@ RTD는 **온도에 따라 금속의 전기저항이 변하는 성질**을 이용
 - **열전대보다 내구성 떨어짐**
 
 
+### RTD 동작원리 설명 동영상
+URL: http://www.youtube.com/watch?v=qTBu-moi8bc
+
 
 ---
 
