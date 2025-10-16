@@ -112,6 +112,10 @@ RTD는 **온도에 따라 금속의 전기저항이 변하는 성질**을 이용
 ---
 # RTD Sensor Datasheet: TE Connectivity PTS060301B100RPU00
 
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/182ba0a0-30c0-446e-b2f3-aac77b4541a8" />
+
+
+
 ---
 
 ### 1. 일반 사양 (General Specifications)
