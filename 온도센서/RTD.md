@@ -116,6 +116,47 @@ RTD는 **온도에 따라 금속의 전기저항이 변하는 성질**을 이용
 
 ## 3. 데이터시트 및 핵심 파라미터
 ---
+# RTD Sensor Datasheet: TE Connectivity PTS060301B100RPU00
+
+---
+
+### 1. 일반 사양 (General Specifications)
+* **모델명**: `PTS060301B100RPU00`
+* **제조사**: TE Connectivity
+* **종류**: 백금 박막 RTD (Platinum Thin Film RTD)
+* **공칭 저항**: 100 Ω at 0°C
+* **측정 온도 범위**: -55°C ~ 155°C
+
+---
+
+### 2. 저항 및 온도 특성 (Resistance & Temperature Characteristics)
+* **온도 저항 계수 (TCR / α)**: 3850 ppm/K (`0.00385 Ω/Ω/°C`)
+* **표준**: IEC 60751
+
+---
+
+### 3. 정확도 및 공차 (Accuracy & Tolerance)
+* **공차 등급**: Class B (F0.3)
+* **허용 오차**: `±(0.3 + 0.005|T|) °C`
+    * **0°C 에서의 오차**: ±0.3°C
+    * **100°C 에서의 오차**: ±(0.3 + 0.005 × 100) = ±0.8°C
+
+---
+
+### 4. 동적 및 전기적 특성 (Dynamic & Electrical Characteristics)
+* **응답 시간 (Response Time, τ_0.63)**:
+    * **공기 중 (v=1m/s)**: 약 3초
+    * **물 속 (v=0.4m/s)**: 약 0.15초
+* **자가 발열 계수 (Self-heating)**: 0.4 K/mW at 0°C
+* **최대 측정 전류**: 1mA
+* **절연 저항**: > 100 MΩ at 25°C
+
+---
+
+### 5. 물리적 사양 (Physical Specifications)
+* **크기 (Dimensions)**: 0603 패키지 (1.6mm x 0.85mm x 0.45mm)
+* **리드선 (Termination)**: 니켈 배리어 위의 100% 무광 주석 도금 (솔더링용)
+* **안정성 (Long-term Stability)**: 최대 저항 변화 < 0.04% (1000시간, 155°C 노출 후)
 
 ## 4. 구체적 응용 사례 — MEG (뇌자기파 측정)
 ---
