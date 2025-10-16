@@ -55,9 +55,10 @@ URL: http://www.youtube.com/watch?v=qTBu-moi8bc
 
 ## 2. 실물 사진 및 구성 요소
 
+
 ### 📸 실물 예시
-![PT100 RTD Probe](https://upload.wikimedia.org/wikipedia/commons/5/5c/PT100_Resistance_Temperature_Detector.jpg)
-![PT100 Thin Film Element](https://upload.wikimedia.org/wikipedia/commons/6/69/PT100_Thin_film_element.jpg)
+![RTD 헤드형 프로브](1.jpg)
+![PT100 박막 엘리먼트](2.png)
 
 ---
 
@@ -89,27 +90,27 @@ URL: http://www.youtube.com/watch?v=qTBu-moi8bc
 
 | 타입 | 특징 | 예시 이미지 |
 |------|------|--------------|
-| **리드선형 프로브** | 케이블 일체형, 기계·3D프린터 등에 사용 | ![Lead Wire RTD](https://cdn.omega.com/Images/Temperature/RTD/PT100-SENSOR.jpg) |
-| **M12 커넥터형** | 탈착이 쉬우며 IP67 방수 | ![M12 RTD](https://cdn.shopify.com/s/files/1/0266/0561/9888/files/m12_rtd_sensor.jpg) |
-| **헤드형 터미널** | 플랜트 공정용, 단자박스 결선 가능 | ![Terminal Head RTD](https://www.labfacility.com/media/catalog/product/cache/pt100-head-assembly.jpg) |
-| **엘리먼트 단품** | 세라믹 위 백금 박막칩 형태 | ![Thin Film Element](https://upload.wikimedia.org/wikipedia/commons/6/69/PT100_Thin_film_element.jpg) |
+| **리드선형 프로브** | 케이블 일체형, 기계·3D프린터 등에 사용 | ![리드선형 프로브](3.jpg) |
+| **M12 커넥터형** | 탈착이 쉬우며 IP67 방수 | ![M12 커넥터형](4.jpg) |
+| **헤드형 터미널** | 플랜트 공정용, 단자박스 결선 가능 | ![헤드형 터미널](5.jpg) |
+| **엘리먼트 단품** | 세라믹 위 백금 박막칩 형태 | ![엘리먼트 단품](6.jpg) |
 
 ---
 
 ### 💰 가격 정보 (2025년 기준 대략가)
 
-| 제품명 / 형태 | 제조사 | 주요 사양 | 가격(₩, 부가세 제외) | 판매처 |
-|----------------|---------|-------------|------------------|---------|
-| **PT100 기본형 RTD 프로브** | G마켓 (OEM) | Ø6mm × 100mm, 3선식 | 약 **₩30,000** | [G마켓](https://www.gmarket.co.kr) |
-| **Adam Tech CA-TS-003 RTD PT100** | DigiKey | 산업용, 3선식, 500°C | 약 **₩78,000** | [DigiKey](https://www.digikey.kr) |
-| **Labfacility PT100 Probe (3×50mm)** | Labfacility | 소형, Class A | 약 **₩79,000** | [element14](https://kr.element14.com) |
-| **PT100 NPT 터미널 헤드형** | 국내 유통 (산업용) | ¼″ NPT, IP67 헤드 | 약 **₩30,000** | [G마켓](https://www.gmarket.co.kr) |
-| **PT100 NPT 스레드형** | AliExpress | 6mm × 100mm, 3선 | 약 **₩11,000** | [AliExpress](https://www.aliexpress.com) |
-| **Pico SE011 Pt100 Probe** | Pico Tech | 데이터로거용, Class A | 약 **₩64,000** | [element14](https://kr.element14.com) |
-| **OMEGA RTD-805-B 고정밀형** | OMEGA | 산업용, Class A, SS 시스 | 약 **₩510,000** | [DigiKey](https://www.digikey.kr) |
+| 제품명 / 형태 | 제조사 | 주요 사양 | 가격(₩, 부가세 제외) |
+|----------------|---------|-------------|------------------|
+| **PT100 기본형 RTD 프로브** | G마켓 (OEM) | Ø6mm × 100mm, 3선식 | 약 **₩30,000** |
+| **Adam Tech CA-TS-003 RTD PT100** | DigiKey | 산업용, 3선식, 500°C | 약 **₩78,000** |
+| **Labfacility PT100 Probe (3×50mm)** | Labfacility | 소형, Class A | 약 **₩79,000** |
+| **PT100 NPT 터미널 헤드형** | 국내 유통 (산업용) | ¼″ NPT, IP67 헤드 | 약 **₩30,000** |
+| **PT100 NPT 스레드형** | AliExpress | 6mm × 100mm, 3선 | 약 **₩11,000** |
+| **Pico SE011 Pt100 Probe** | Pico Tech | 데이터로거용, Class A | 약 **₩64,000** |
+| **OMEGA RTD-805-B 고정밀형** | OMEGA | 산업용, Class A, SS 시스 | 약 **₩510,000** |
 
-> 💡 가격은 제조사/길이/정확도 등급(Class A·B)에 따라 크게 달라지며,  
-> **일반형은 1–3만원대**, **정밀형·산업용은 5–50만원대**까지 다양합니다.
+> 💡 가격은 제조사/길이/정확도 등급(Class A·B)에 따라 달라지며,  
+> 일반형은 **1–3만원대**, 정밀형·산업용은 **5–50만원대**까지 다양합니다.
 
 ## 3. 데이터시트 및 핵심 파라미터
 ---
