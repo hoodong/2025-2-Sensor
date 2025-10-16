@@ -51,63 +51,42 @@ RTD는 **온도에 따라 금속의 전기저항이 변하는 성질**을 이용
 ## 2. 실물 사진 및 구성 요소
 ---
 
-## 📸 실물 예시
+### 📸 실물 예시
 ![PT100 RTD Probe](https://upload.wikimedia.org/wikipedia/commons/5/5c/PT100_Resistance_Temperature_Detector.jpg)
 ![PT100 Thin Film Element](https://upload.wikimedia.org/wikipedia/commons/6/69/PT100_Thin_film_element.jpg)
 
-## 📘 개요
-**RTD(저항 온도 센서)**는 금속의 **전기저항이 온도에 따라 선형적으로 변하는 원리**를 이용해 온도를 측정하는 센서입니다.  
-가장 일반적인 재질은 **백금(Platinum, Pt)**이며, `PT100`은 0 °C에서 100 Ω의 저항을 가지는 RTD를 의미합니다.
+### ⚙️ 주요 구성 요소
 
-## ⚙️ 구성요소 상세
-
-| 구성 요소 | 설명 | 대표 크기/사양 |
+| 구성 요소 | 설명 | 대표 크기 / 사양 |
 |------------|------|----------------|
-| **감지 소자 (Platinum RTD Element)** | 실제 온도를 감지하는 핵심 부분으로, **백금선**을 세라믹 기판 위에 감거나 박막 형태로 제작 | - 얇은막(Thin-film): `2.3 × 1.2 × 1.1 mm` 〜 `5.0 × 2.0 × 1.1 mm`<br>- 와이어권선(Wire-wound): `Ø 1.5 × 15 mm` |
-| **보호관 (Sheath)** | 내부 RTD를 보호하는 금속 튜브. 열전달을 유지하면서도 외부 충격, 습기, 부식을 방지 | 재질: **316/316L 스테인리스**<br>외경: `1.5 / 3 / 4.5 / 6 / 8 mm` |
-| **절연 충전재 (MgO Powder)** | 내부 리드선과 센서를 전기적으로 절연시키며, 동시에 열전도성을 높임 | 고순도 **산화마그네슘(MgO)** |
-| **트랜지션 (Transition Potting)** | 보호관과 케이블이 만나는 부분을 **에폭시 수지**로 밀봉하여 방수 및 인장 보호 | 길이 약 `15–25 mm` |
-| **리드선 / 케이블** | 2·3·4선식 연결 방식에 따라 구성. 절연체는 고온에서도 견디는 **PFA/FEP** 재질 사용 | 기본 길이 `1 m`, 연장 가능 |
-| **종단부 (Termination)** | RTD를 외부 회로에 연결하기 위한 커넥터 | M12 커넥터, 포크 터미널, 스트리프형 등 |
-| **써모웰 (Thermowell, 선택)** | 공정 압력이나 유지보수성을 높이기 위한 보호 커버 | 나사형(NPT), 플랜지형 다양 |
+| **감지 소자 (Platinum Element)** | 백금선을 세라믹 기판에 감거나, 박막 형태로 제작된 온도 감지부 | Thin-film: `2.3×1.2×1.1 mm` ~ `5.0×2.0×1.1 mm`<br>Wire-wound: `Ø 1.5×15 mm` |
+| **보호관 (Sheath)** | 감지 소자를 보호하는 금속관. 외부 충격·습기·부식 방지 | 재질: 316 L 스테인리스<br>외경: `1.5–8 mm` |
+| **절연 충전재 (MgO)** | 내부 리드선을 절연하고 열전달 효율을 높임 | 고순도 산화마그네슘 |
+| **트랜지션(에폭시 포팅)** | 보호관과 케이블 접합부를 수지로 밀봉해 방수·인장보호 | 길이 약 15–25 mm |
+| **리드선 / 케이블** | 2·3·4선식 연결 방식, 고온 절연재(FEP/PFA) 사용 | 기본 길이 1 m |
+| **종단부 (Termination)** | 회로 연결용 단자. M12 커넥터나 포크 단자 형태 다양 | 선택 사양 |
+| **써모웰 (옵션)** | 교체 및 내압성 향상용 보호관 | 나사형 / 플랜지형 |
 
-## 📏 실제 크기 예시
+---
 
-| 타입 | 외경 | 길이 | 측정 온도 범위 |
-|------|------|------|----------------|
+### 📏 크기 예시
+
+| 타입 | 외경 | 길이 | 온도 범위 |
+|------|------|------|------------|
 | 소형 프로브 | Ø 3 mm | 76 mm | −70 ~ 200 °C |
 | 산업용 프로브 | Ø 6.35 mm (¼″) | 152 mm | −70 ~ 500 °C |
-| 엘리먼트 단품 | 2.3–5 mm (길이) | — | −200 ~ 600 °C |
+| 엘리먼트 단품 | 2.3 ~ 5 mm | — | −200 ~ 600 °C |
 
+---
 
-## 🧩 형태별 실물 이미지
+### 🧩 형태별 예시
 
-| 타입 | 특징 | 예시 이미지 |
-|------|------|--------------|
-| **리드선형 프로브** | 케이블이 직접 연결된 형태로, 기계·3D 프린터 등에 많이 사용 | ![Lead Wire RTD](https://www.omega.com/Images/rtssensor-leadwire.jpg) |
-| **M12 커넥터형** | 탈착이 쉬우며 IP67 등급 방수 | ![M12 RTD](https://www.evosensors.com/images/PT100-M12-RTD.jpg) |
-| **헤드형 터미널** | 공정용 플랜트에서 많이 사용, 단자박스 내 결선 | ![Terminal Head RTD](https://www.labfacility.com/media/catalog/product/cache/rtdd.jpg) |
-| **엘리먼트 단품** | 세라믹 기판 위에 백금이 증착된 칩 형태 | ![Thin Film Element](https://upload.wikimedia.org/wikipedia/commons/6/69/PT100_Thin_film_element.jpg) |
-
-
-## 📊 요약
-
-| 항목 | 내용 |
-|------|------|
-| **측정 원리** | 금속 저항의 온도 의존성 (R = R₀[1 + α(T − T₀)]) |
-| **대표 재질** | Platinum (Pt100 / Pt1000) |
-| **사용 온도 범위** | −200 ~ 850 °C (타입별 상이) |
-| **정확도 등급** | Class A (±0.15 °C @ 0 °C), Class B (±0.3 °C @ 0 °C) |
-| **장점** | 높은 선형성, 안정성, 재현성 우수 |
-| **단점** | 응답속도 느림, 비용 높음 |
-
-
-## 🔗 참고 자료
-- [TE Connectivity — PT100 Thin-film Element Datasheet](https://www.te.com/usa-en/product-PT100.html)  
-- [OMEGA Engineering — RTD Sensor Assemblies](https://www.omega.com/en-us/temperature-measurement/rtd)  
-- [Labfacility — Platinum Resistance Thermometers](https://www.labfacility.com/platinum-resistance-thermometers)
-
-> 💡 **요약:** RTD는 백금 감지소자를 세라믹 기판이나 금속 시스에 넣은 정밀 온도센서로, 일반적인 프로브 길이는 50–150 mm, 외경은 3–6 mm 정도이며, 구조는 감지소자 → 절연충전 → 보호관 → 리드선으로 이어지는 형태입니다.
+| 타입 | 특징 | 예시 |
+|------|------|------|
+| 리드선형 프로브 | 케이블 일체형, 기계·3D 프린터용 | ![Lead Wire RTD](https://www.omega.com/Images/rtssensor-leadwire.jpg) |
+| M12 커넥터형 | 탈착 용이, IP67 방수 | ![M12 RTD](https://www.evosensors.com/images/PT100-M12-RTD.jpg) |
+| 헤드형 터미널 | 플랜트용, 단자박스 결선 | ![Terminal Head RTD](https://www.labfacility.com/media/catalog/product/cache/rtdd.jpg) |
+| 엘리먼트 단품 | 세라믹 위 백금 박막칩 형태 | ![Thin Film Element](https://upload.wikimedia.org/wikipedia/commons/6/69/PT100_Thin_film_element.jpg) |
 
 ## 3. 데이터시트 및 핵심 파라미터
 ---
