@@ -1,4 +1,8 @@
-## 🌡️ RTD (Resistance Temperature Detector)의 동작 원리
+# RTD (Resistance Temperature Detector)
+---
+
+## 1. 동작 원리
+---
 
 RTD는 **온도에 따라 금속의 전기저항이 변하는 성질**을 이용한 온도센서이다.
 
@@ -49,10 +53,8 @@ RTD는 **온도에 따라 금속의 전기저항이 변하는 성질**을 이용
 > 정확도와 안정성은 뛰어나지만, 가격과 내구성이 단점이다.
 
 
+## 2. 실물 사진 및 구성 요소
 ---
-
-
-# 🧊 RTD (Resistance Temperature Detector) 실물사진 및 설명
 
 ## 📸 실물 예시
 ![PT100 RTD Probe](https://upload.wikimedia.org/wikipedia/commons/5/5c/PT100_Resistance_Temperature_Detector.jpg)
@@ -111,3 +113,9 @@ RTD는 **온도에 따라 금속의 전기저항이 변하는 성질**을 이용
 - [Labfacility — Platinum Resistance Thermometers](https://www.labfacility.com/platinum-resistance-thermometers)
 
 > 💡 **요약:** RTD는 백금 감지소자를 세라믹 기판이나 금속 시스에 넣은 정밀 온도센서로, 일반적인 프로브 길이는 50–150 mm, 외경은 3–6 mm 정도이며, 구조는 감지소자 → 절연충전 → 보호관 → 리드선으로 이어지는 형태입니다.
+
+## 3. 데이터시트 및 핵심 파라미터
+---
+
+## 4. 구체적 응용 사례 — MEG (뇌자기파 측정)
+---
