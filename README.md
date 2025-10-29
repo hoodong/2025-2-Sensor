@@ -64,7 +64,7 @@
 - [쌍소자 탐촉자 (Dual element probe)](초음파센서/dual.md) (3)
 - [경사각 탐촉자 (Angle beam probe)](초음파센서/angle.md) (4)
 - [전자기음향 탐촉자 (EMAT probe)](초음파센서/emat.md) (5)
-- [와전류 탐촉자 (Eddy current probe)](초음파센서/eddy.md)
+- [와전류 탐촉자 (Eddy current probe)](초음파센서/eddy.md) (6)
 - [위상배열 탐촉차 (Phased array probe)](초음파센서/phase.md) (7)
 
 7주차. 위치 변위 센서
