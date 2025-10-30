@@ -1,8 +1,12 @@
 
-
-
-
-
+## 2. 실물사진 및 설명(Q3300872)  
+![실물 사진](https://ims.evidentscientific.com/ko/probes/single-and-dual-element/media_1b1657aef713d3a015e1a98cf818ef3f9000edb38.jpg?width=2000&format=webply&optimize=medium)  
+  
+사진에서 왼쪽부터 D1,D2,D3,D4,D5순으로 나와있음  
+DC1, DC2 트랜스듀서: 탱크 및 파이프라인 검사를 위한 견고성 및 다양성  
+DC3 트랜스듀서: 신속한 파이프 용접 테스트 및 박벽 재료 검사   
+DC4,  DC5 트랜스듀서: 박층 재료의 결함 탐지 및 두께 측정에 최적화  
+가격 : 약 40~ 70만원  
 
 
 
