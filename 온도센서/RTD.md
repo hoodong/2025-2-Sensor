@@ -90,9 +90,9 @@ URL: http://www.youtube.com/watch?v=qTBu-moi8bc
 | 타입 | 특징 | 예시 이미지 |
 |------|------|--------------|
 | **리드선형 프로브** | 케이블 일체형, 기계·3D프린터 등에 사용 | <img src="https://media.rs-online.com/C3730372-01.jpg" width="300px"> |
-| **M12 커넥터형** | 탈착이 쉬우며 IP67 방수 | ![M12 커넥터형](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8F4qWxZ2-WbMAbzaSPn9zFU7zpS3Rhewzfw&s) |
-| **헤드형 터미널** | 플랜트 공정용, 단자박스 결선 가능 | ![헤드형 터미널](https://do2p1q9b92sgp.cloudfront.net/rendition/353604884319/image_cndqkqgmup4018iel5de9bke5i/-FWEBP-B297) |
-| **엘리먼트 단품** | 세라믹 위 백금 박막칩 형태 | ![엘리먼트 단품](https://cdnus.globalso.com/shwy4488/WZ-Dual-Pt100-RTD-Temperature-Sensor.png) |
+| **M12 커넥터형** | 탈착이 쉬우며 IP67 방수 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8F4qWxZ2-WbMAbzaSPn9zFU7zpS3Rhewzfw&s" width="300px"> |
+| **헤드형 터미널** | 플랜트 공정용, 단자박스 결선 가능 | <img src="https://do2p1q9b92sgp.cloudfront.net/rendition/353604884319/image_cndqkqgmup4018iel5de9bke5i/-FWEBP-B297" width="300px"> |
+| **엘리먼트 단품** | 세라믹 위 백금 박막칩 형태 | <img src="https://cdnus.globalso.com/shwy4488/WZ-Dual-Pt100-RTD-Temperature-Sensor.png" width="300px"> |
 ---
 
 ### 💰 가격 정보 (2025년 기준 대략가)
