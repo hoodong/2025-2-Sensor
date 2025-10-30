@@ -76,7 +76,30 @@
 
 ## 3. 주요 규격 (Specifications)
 
-*(여기에 규격 관련 내용을 추가하세요.)*
+### 🔩 주요 규격 항목
+
+| 항목 | 설명 | 일반적 범위 |
+|------|------|--------------|
+| **주파수 (Frequency)** | 투과성 vs 해상도 결정 | 2 – 10 MHz |
+| **요소 수 (Elements)** | 빔 조향 정밀도 결정 | 16, 32, 64, 128 등 |
+| **피치 (Pitch)** | 요소 간 중심 간격 | 0.5 mm ± 0.1 |
+| **어퍼처 (Aperture)** | 활성 영역 폭 | 16 – 64 mm |
+| **조향각 (Steering Range)** | 전자적으로 조정 가능한 빔 각도 | ±30° ~ ±45° |
+| **초점 거리 (Focal Depth)** | 집속 위치 조정 범위 | 10 – 100 mm |
+| **형식 (Type)** | 접촉형, 침수형, 웨지형 등 | 적용 방식에 따라 선택 |
+
+> 📘 일반적으로 주파수가 낮을수록 투과성이 높고,  
+> 주파수가 높을수록 해상도(결함 구분력)가 증가합니다.
+
+---
+
+### 🧱 탐촉차 형식 예시
+
+| 형식 | 특징 | 이미지 |
+|------|------|---------|
+| **직접 접촉형 (Contact Type)** | 평면 구조물 검사에 적합 | <img src="https://www.jwjndt.com/wp-content/uploads/2016/05/protective_face_direct_contact_pa_probes.jpg" width="300px"> |
+| **웨지형 (Angle Beam)** | 용접부·경사면 검사용 | <img src="https://cdn11.bigcommerce.com/s-wd3bd4agi/images/stencil/375x375/m/wedgeprotectivefilm1square__01068.original.png" width="300px"> |
+| **침수형 (Immersion Type)** | 정밀 부품·복합재 비접촉 검사용 | <img src="https://www.researchgate.net/publication/339582253/figure/fig9/AS%3A961833036951554%401606330274132/PAUT-setup-for-HDPE-pipe-inspection-under-water-immersion.jpg" width="300px"> |
 
 ---
 
