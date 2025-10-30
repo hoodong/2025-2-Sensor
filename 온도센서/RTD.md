@@ -57,8 +57,6 @@ URL: http://www.youtube.com/watch?v=qTBu-moi8bc
 
 ### 📸 실물 예시
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIpwWAc5HD7ZU6QCjag3BeTIyQb13WCHFriA&s" width="300px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTax5N1V0SNF59sa87p3LmZq_fpE8LORXKVCw&s" width="300px">
-
 ---
 
 ### ⚙️ 주요 구성 요소
