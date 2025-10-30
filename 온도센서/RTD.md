@@ -55,7 +55,6 @@ URL: http://www.youtube.com/watch?v=qTBu-moi8bc
 
 ## 2. 실물 사진 및 구성 요소
 
-
 ### 📸 실물 예시
 ![RTD 헤드형 프로브](https://upload.wikimedia.org/wikipedia/commons/0/09/Resistance_Temperature_Detector.jpg)
 ![PT100 박막 엘리먼트](https://upload.wikimedia.org/wikipedia/commons/f/f7/PT100_sensor_element.jpg)
