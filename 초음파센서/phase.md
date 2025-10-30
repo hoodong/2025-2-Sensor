@@ -12,7 +12,7 @@
 
 ## 2. 동작 원리
 
-위상배열 탐촉자의 핵심 원리는 **'시간차 제어'**입니다.
+위상배열 탐촉자의 핵심 원리는 '시간차 제어'입니다.
 
 하나의 큰 결정(소자)을 사용하는 일반 탐촉자와 달리, 위상배열 탐촉자는 **여러 개의 작은 소자(element)로 구성된 '배열(array)'**을 사용합니다. 그리고 이 소자 각각에 전기 신호를 주는 **타이밍(위상, phase)을 수 나노초(ns) 단위로 정밀하게 제어**해서, 전체 초음파 빔의 방향과 초점을 원하는 대로 조종하는 기술입니다.
 
@@ -28,7 +28,8 @@
     * **동작:** 빔의 각도, 초점, 빔 크기를 전자적으로 실시간 제어합니다.
     * **장점:** 프로브 하나로 여러 각도의 검사를 동시에 수행할 수 있습니다.
 
-![Conventional UT vs Phased Array probe structure](httpsg://example.com/paut_structure_comparison.png)
+<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/556a41c5-90f3-4b03-9e48-8626ce39aa8e" />
+
 
 
 ### 2.2. 핵심 동작 원리: 파동의 간섭과 시간 지연
