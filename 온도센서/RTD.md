@@ -90,11 +90,10 @@ URL: http://www.youtube.com/watch?v=qTBu-moi8bc
 
 | 타입 | 특징 | 예시 이미지 |
 |------|------|--------------|
-| **리드선형 프로브** | 케이블 일체형, 기계·3D프린터 등에 사용 | ![리드선형 프로브](3.jpg) |
-| **M12 커넥터형** | 탈착이 쉬우며 IP67 방수 | ![M12 커넥터형](4.jpg) |
-| **헤드형 터미널** | 플랜트 공정용, 단자박스 결선 가능 | ![헤드형 터미널](5.jpg) |
-| **엘리먼트 단품** | 세라믹 위 백금 박막칩 형태 | ![엘리먼트 단품]([6.jpg](https://br.omega.com/omegaFiles/Temperature/images/TFD_RTD_l.jpg)) |
-
+| **리드선형 프로브** | 케이블 일체형, 기계·3D프린터 등에 사용 | ![](https://share.google/images/4JMmy2wgMbCj4vj0R) |
+| **M12 커넥터형** | 탈착이 쉬우며 IP67 방수 | ![](https://share.google/images/P9QZopquRT6Nze0VN) |
+| **헤드형 터미널** | 플랜트 공정용, 단자박스 결선 가능 | ![](https://share.google/images/7sB7xTaeO2beIgOjj) |
+| **엘리먼트 단품** | 세라믹 위 백금 박막칩 형태 | ![](https://share.google/images/iJecOmBR4B8jYNtFc) |
 ---
 
 ### 💰 가격 정보 (2025년 기준 대략가)
