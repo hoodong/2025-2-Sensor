@@ -57,7 +57,7 @@
 8주차. 중간시험 10/23
 
 9주차. 음향파 초음파 센서 10/30  
-비파괴검사(NDT)용 초음파 프로브의 데이터시트를 분석해 보고서를 작성합니다.  
+비파괴검사(NDT)용 초음파 프로브네 대한 보고서를 작성합니다. (동작원리, 규격, 활용분야 포함)
 다음 사이트를 참고합니다. [Evident NDT Probe](https://ims.evidentscientific.com/ko/probes)  
 - [직접접촉식 탐촉자 (Contact probe)](초음파센서/contact.md) (1)
 - [침수식탐촉자 (Immersion probe)](초음파센서/immersion.md) (2)
