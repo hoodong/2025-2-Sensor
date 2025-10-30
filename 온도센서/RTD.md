@@ -57,7 +57,7 @@ URL: http://www.youtube.com/watch?v=qTBu-moi8bc
 
 ### 📸 실물 예시
 ![RTD 헤드형 프로브](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIpwWAc5HD7ZU6QCjag3BeTIyQb13WCHFriA&s)
-![PT100 박막 엘리먼트](https://upload.wikimedia.org/wikipedia/commons/f/f7/PT100_sensor_element.jpg)
+![PT100 박막 엘리먼트](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTax5N1V0SNF59sa87p3LmZq_fpE8LORXKVCw&s)
 
 ---
 
