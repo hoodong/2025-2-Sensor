@@ -1,7 +1,10 @@
 # 동작 원리  
 
 # 실물 사진 및 설명  
-<img width="256" height="190" alt="image" src="https://github.com/user-attachments/assets/f3f552da-42e9-4c53-8a6d-ebe6ca6a2a46" />    
+<img width="256" height="190" alt="image" src="https://github.com/user-attachments/assets/f3f552da-42e9-4c53-8a6d-ebe6ca6a2a46" /><img width="256" height="190" alt="image" src="https://github.com/user-attachments/assets/ec36406d-e1f1-4ccc-830e-1172cc87613f" /><img width="256" height="190" alt="image" src="https://github.com/user-attachments/assets/cde82ff4-53bd-4b03-831c-e783b89d2cfb" />  
+
+
+    
 
 
 제품명 : Sonemat HWR22LMGF High Power EMAT  
