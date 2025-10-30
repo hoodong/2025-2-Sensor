@@ -99,7 +99,7 @@
 |------|------|---------|
 | **직접 접촉형 (Contact Type)** | 평면 구조물 검사에 적합 | <img src="https://www.jwjndt.com/wp-content/uploads/2016/05/protective_face_direct_contact_pa_probes.jpg" width="300px"> |
 | **웨지형 (Angle Beam)** | 용접부·경사면 검사용 | <img src="https://cdn11.bigcommerce.com/s-wd3bd4agi/images/stencil/375x375/m/wedgeprotectivefilm1square__01068.original.png" width="300px"> |
-| **침수형 (Immersion Type)** | 정밀 부품·복합재 비접촉 검사용 | <img src="https://www.researchgate.net/publication/339582253/figure/fig9/AS%3A961833036951554%401606330274132/PAUT-setup-for-HDPE-pipe-inspection-under-water-immersion.jpg" width="300px"> |
+| **침수형 (Immersion Type)** | 정밀 부품·복합재 비접촉 검사용 | <img src="https://ndt-kits.com/wp-content/uploads/2021/04/UT0035.jpg" width="300px"> |
 
 ---
 
