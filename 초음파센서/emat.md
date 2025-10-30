@@ -20,7 +20,26 @@ EMAT는 로렌츠 힘 EMAT와 자기변형 EMAT 두 종류로 나뉩니다.
 신호 수신: 반대편에서 반사되어 돌아온 초음파가 다시 표면을 진동시키면, 이 과정이 역으로 진행되어 코일에 미세한 전기 신호가 유도되고 장비가 이를 감지합니다.  
 
 
-# 실물 사진 및 설명  
+# 실물 사진 및 설명   
+<img width="256" height="190" alt="image" src="https://github.com/user-attachments/assets/f3f552da-42e9-4c53-8a6d-ebe6ca6a2a46" /><img width="256" height="190" alt="image" src="https://github.com/user-attachments/assets/ec36406d-e1f1-4ccc-830e-1172cc87613f" /><img width="256" height="190" alt="image" src="https://github.com/user-attachments/assets/cde82ff4-53bd-4b03-831c-e783b89d2cfb" />    
+
+
+
+
+
+
+제품명 : Sonemat HWR22LMGF High Power EMAT   
+
+가격 :  £1200    
+
+무게  : 0.45kg    
+
+프로브 구성 : Pulse-Echo 방식 (단일 프로브로 송·수신 가능), 또는 두 개의 프로브를 이용한 Pitch-Catch 방식으로 사용 가능    
+
+크기 : 길이 44 mm × 지름 54 mm     
+
+작동 온도 : 0 ~ 80 °C   
+
 
 # 데이터시트  
 
