@@ -148,7 +148,7 @@
 - 💧 **혈류 분석으로 기능적 진단 가능**
 - 💻 **고정밀, 비침습적 진단 방식**
 
-##  OmniScan X3 비파괴 탐상기 개요
+##  OmniScan X3 
 
 ![OmniScan X3 Image](https://github.com/user-attachments/assets/6ac1832e-25f6-400a-b512-468bd0d431ce)
 
