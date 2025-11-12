@@ -2,7 +2,8 @@
 ### 참고 영상
 https://www.youtube.com/watch?v=HyBzjsrdrcU  
 
-<img width="535" height="279" alt="image" src="https://github.com/user-attachments/assets/2fc8b9a8-876b-4d75-a246-cddcc3400774" />  
+<img width="535" height="279" alt="image" src="https://github.com/user-attachments/assets/2fc8b9a8-876b-4d75-a246-cddcc3400774" />   
+
 전자기음향 탐촉자(EMAT)는 자석과 코일을 이용해 초음파를 만들어내는 비접촉식 검사 장비입니다.  
 로렌츠 힘 EMAT와 자기변형 EMAT, 두 종류로 나뉩니다.  
 두 방식은 사용하는 부품(자석, 코일)은 거의 동일하지만, 진동을 일으키는 대상과 원리가 다릅니다.  
@@ -14,7 +15,8 @@ https://www.youtube.com/watch?v=HyBzjsrdrcU
 3단계에서, 어떤 대상에 어떤 힘이 작용하는지에 따라 자기변형 EMAT와 로렌츠 힘 EMAT로 나뉘게 됩니다.  
   
 3. 자기변형 EMAT: 산화물(녹)을 진동시킴
-<img width="537" height="358" alt="image" src="https://github.com/user-attachments/assets/4450654b-aa26-4c11-8192-5d1445f67a25" />  
+<img width="537" height="358" alt="image" src="https://github.com/user-attachments/assets/4450654b-aa26-4c11-8192-5d1445f67a25" />
+
 자기변형 EMAT는 철강 표면의 산화물(녹)을 직접 진동시키는 방식입니다.  
 두 자기장이 만나면 '자기변형 효과'가 발생하여, 산화물 자체가 미세하게 수축하고 팽창하며 떨리게 됩니다.
 이 떨림이 초음파가 되어 금속 내부로 전파됩니다.  
