@@ -52,7 +52,8 @@ https://www.youtube.com/watch?v=HyBzjsrdrcU
 **ACS-S7694**  
 
 
-<img 너비="482" 높이="250" 대체="이미지" src="https://github.com/user-attachments/assets/0a38b0c9-44e4-4d0c-a265-6e5fbfb99d88" />  
+<img width="482" height="250" alt="image" src="https://github.com/user-attachments/assets/ccb03c7b-c820-40d4-affe-8974a6085e05" />
+
 
 
 
