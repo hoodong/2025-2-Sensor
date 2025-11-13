@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=HyBzjsrdrcU
 
 무게  : 0.45kg    
 
-프로브 구성 : Pulse-Echo 방식 (단일 프로브로 송·수신 가능), 또는 두 개의 프로브를 이용한 Pitch-Catch 방식으로 사용 가능    
+프로브 구성 : Pulse-Echo 방식 (단일 프로브로 송·수신 가능)
 
 크기 : 길이 44 mm × 지름 54 mm     
 
