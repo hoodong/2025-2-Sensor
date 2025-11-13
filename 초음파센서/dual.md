@@ -14,6 +14,7 @@
 </br>
 ### 1-4) 장점
 단일 요소 탐촉자 대비 다음과 같은 이점이 있다. 
+
 근표면 해상도 개선: 표면 근처의 결함이나 두께 변화를 더 명확하게 
 
 우수한 결합: 거친 표면 조건에서도 안정적인 음향 결합(Coupling)을 제공
@@ -101,3 +102,14 @@
 - 회전체나 축류 부품의 내부 결함 검출
 - 복잡한 곡면이나 제한된 공간에서도 안정적인 탐상 가능
 
+
+
+</br> </br> </br> 
+## 4. 데이터시트
+| 항목 번호 (Item Number) | 부품 코드 (Part Code) | 주파수 (Frequency) | 공칭 요소 크기 (Nominal Element Size) (mm) | 공칭 요소 크기 (Nominal Element Size) (Inches) | 커넥터 유형 (Connector Type) | 커넥터 위치 (Connector Location) | 케이블 유형 (Cable Type) | 외부 치수 (External Dimensions) (Length) | 외부 치수 (External Dimensions) (Width) | 외부 치수 (External Dimensions) (Height) | 팁 직경 (Tip Diameter) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Q330087 | 27.5 | DS-0.375-0LW-DC1-P-1-RPL | 7.5 | 9.5 | 20.375 | LEMO 00 | Right Angle (직각) | Right Angle Potted (직각 포팅) | 14.73 mm (0.58 in) | 18.54 mm (0.73 in) | 0.455 in diameter |
+</br>
+공칭 요소 크기 (Nominal Element):  
+외부 치수 (External Dimensions):   
+팁 직경 (Tip Diameter):   
