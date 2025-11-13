@@ -1,6 +1,8 @@
 # 와전류 탐촉자
+-90도 꺽임형 프로브
+이 장비는 금속 구조물 안에 생긴 균열이나 부식 같은 결함을 비파괴적으로 찾는데 사용됨
+금속 구조물은 외형만 보고는 내부가 괜찮은지 판단하기 어렵기 때문에 해당 장비가 필요로 함
 
----
 ## 1. 실물사진 및 설명
 ![실물사진](https://ims.evidentscientific.com/ko/probes/eddy-current/media_1d01d631ff7434ec50a71bf3ab459ca84ce2eab56.png?width=1200&format=pjpg&optimize=medium)
 **파트 ID** : 9216204.00  
