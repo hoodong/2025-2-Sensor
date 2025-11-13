@@ -51,7 +51,6 @@
 | 모델명 (Part ID) | Item No | 타입(Type) | 팁 각도(Tip Angle) | 길이(Length) | 드롭(Drop) | 작동 주파수(Frequency) | 샤프트 직경(Shaft Size) | 커넥터(Connector) |
 |------------------|---------|------------|---------------------|-------------|-------------|------------------------|--------------------------|-------------------|
 | 9216204.00       | U8623206| Reflection Absolute | 90°                 | 6 in (152.4 mm) | 0.03 in (0.76 mm) | 50 kHz ~ 500 kHz        | 0.125 in (3.17 mm)       | Triax Fischer     |
-| 9222164.01       | U8616093| Right Angle Absolute | 6 in (152.4 mm)    | 0.5 in (12.7 mm) | 100 kHz ~ 500 kHz     | 0.125 in (3.17 mm)       | POWERLINK™        |
 
 
     
