@@ -38,8 +38,24 @@
 - DC3 트랜스듀서: 신속한 파이프 용접 테스트 및 박벽 재료 검사   
 - DC4,  DC5 트랜스듀서: 박층 재료의 결함 탐지 및 두께 측정에 최적화  
 - 가격 : 약 40~ 70만원
-- 외형 크기: 직경 약 14.73 mm (0.58 inch), 높이 약 18.54 mm (0.73 inch)
-- 소자의 크기 : 9.52mm  
+
+
+
+</br> </br> </br> 
+## 3. 데이터시트
+| 항목 번호 (Item Number) | 부품 코드 (Part Code) | 주파수 (Frequency) | 공칭 요소 크기 (Nominal Element Size) (mm) | 공칭 요소 크기 (Nominal Element Size) (Inches) | 커넥터 유형 (Connector Type) | 커넥터 위치 (Connector Location) | 케이블 유형 (Cable Type) | 외부 치수 (External Dimensions) (Length) | 외부 치수 (External Dimensions) (Width) | 외부 치수 (External Dimensions) (Height) | 팁 직경 (Tip Diameter) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Q330087 | 27.5 | DS-0.375-0LW-DC1-P-1-RPL | 7.5 | 9.5 | 20.375 | LEMO 00 | Right Angle (직각) | Right Angle Potted (직각 포팅) | 14.73 mm (0.58 in) | 18.54 mm (0.73 in) | 0.455 in diameter |
+</br>
+
+공칭 요소 크기 (Nominal Element):  탐촉자 내부에 실제로 초음파를 발생시키고 수신하는 핵심 부품(압전 세라믹 등의 요소/Element)의 공칭적인(이름이 붙여진,명목상) 크기
+
+외부 치수 (External Dimensions):   탐촉자 하우징(Housing, 외부 케이스)의 전체적인 길이, 너비, 높이
+
+팁 직경 (Tip Diameter):   탐촉자의 가장 끝부분, 즉 검사 대상 표면에 실제로 접촉하는 부분의 직경(지름)
+
+</br>  
+</br>  
 
 
 
@@ -53,13 +69,7 @@
 
 
 
-
-
-
-
-
-
-## 3.활용분야
+## 4.활용분야
 
 ### 쌍소자 탐촉자의 활용 분야
 
@@ -104,12 +114,5 @@
 
 
 
-</br> </br> </br> 
-## 4. 데이터시트
-| 항목 번호 (Item Number) | 부품 코드 (Part Code) | 주파수 (Frequency) | 공칭 요소 크기 (Nominal Element Size) (mm) | 공칭 요소 크기 (Nominal Element Size) (Inches) | 커넥터 유형 (Connector Type) | 커넥터 위치 (Connector Location) | 케이블 유형 (Cable Type) | 외부 치수 (External Dimensions) (Length) | 외부 치수 (External Dimensions) (Width) | 외부 치수 (External Dimensions) (Height) | 팁 직경 (Tip Diameter) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Q330087 | 27.5 | DS-0.375-0LW-DC1-P-1-RPL | 7.5 | 9.5 | 20.375 | LEMO 00 | Right Angle (직각) | Right Angle Potted (직각 포팅) | 14.73 mm (0.58 in) | 18.54 mm (0.73 in) | 0.455 in diameter |
-</br>
-공칭 요소 크기 (Nominal Element):  
-외부 치수 (External Dimensions):   
-팁 직경 (Tip Diameter):   
+
+
