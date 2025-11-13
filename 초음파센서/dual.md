@@ -46,13 +46,19 @@
 
 
 
+### 📝 데이터시트 1: 기본 사양 (Basic Specifications)
+
 | 항목 번호 (Item Number) | 부품 코드 (Part Code) | 주파수 (Frequency) | 공칭 요소 크기 (mm) | 공칭 요소 크기 (Inches) |
 | :---: | :---: | :---: | :---: | :---: |
-| Q330087 | 27.5 | DS-0.375-0LW-DC1-P-1-RPL | 7.5 | 9.5 |
+| Q330087 | DS-0.375-0LW-DC1-P-1-RPL | 7.5 | 9.5 | 0.375 |
 
-| 커넥터 유형 (Connector Type) | 커넥터 위치 (Connector Location) | 케이블 유형 (Cable Type) | 외부 치수 (L) (Length) | 외부 치수 (W) (Width) | 외부 치수 (H) (Height) | 팁 직경 (Tip Diameter) |
- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
- | 20.375 | LEMO 00 | Right Angle (직각) | Right Angle Potted (직각 포팅) | 14.73 mm (0.58 in) | 18.54 mm (0.73 in) | 0.455 in diameter |
+---
+
+### 🛠️ 데이터시트 2: 커넥터 및 물리적 치수 정보 (Connector and Physical Dimensions)
+
+| 항목 번호 (Item Number) | 커넥터 유형 (Connector Type) | 커넥터 위(Connector Location ) | 케이블 유형( Calbe type) | 외부 치수 (Length) | 외부 치수 (Width) | 외부 치수 (Height) | 팁  (Tip ) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Q330087 | LEMO 00 | Right Angle  | Right Angle Potted  |  공백 | 14.73 mm (0.58 in) | 18.54 mm (0.73 in) | 0.455 in diameter |
 
 </br>
 
