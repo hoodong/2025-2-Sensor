@@ -60,7 +60,7 @@
 
 | 항목 번호 (Item Number) | 커넥터 유형 (Connector Type) | 커넥터 위(Connector Location ) | 케이블 유형( Calbe type) | 외부 치수 (Length) | 외부 치수 (Width) | 외부 치수 (Height) | 팁  (Tip ) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Q330087 | LEMO 00 | Right Angle  | Right Angle Potted  |  공백 | 14.73 mm (0.58 in) | 18.54 mm (0.73 in) | 0.455 in diameter |
+| Q3300872 | LEMO 00 | Right Angle  | Right Angle Potted  |  공백 | 14.73 mm (0.58 in) | 18.54 mm (0.73 in) | 0.455 in diameter |
 
 </br>
 
