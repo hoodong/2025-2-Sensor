@@ -20,7 +20,7 @@
 
 - **침수식 탐촉자 동작원리 관련 영상** :  https://youtu.be/YiGUSOqSirA
 
-## 2. 실물 사진 및 설명 : **V306S-SU**
+## 2. 실물 사진 및 설명 : **A309S-SU**
 <img width="632" height="330" alt="Image" src="https://github.com/user-attachments/assets/70bc8c70-a489-46bb-a242-5227f17f0f50" />
 
 ### 구성 요소
